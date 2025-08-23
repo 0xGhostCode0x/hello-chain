@@ -1,13 +1,17 @@
-# Sample Hardhat Project
+# ⚡ Hello Chain
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+A simple Hardhat project for learning smart contract development and Web3 deployment.  
+Blends creativity, code, and blockchain experimentation.
 
-Try running some of the following tasks:
+---
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.ts
+## 📦 Setup
+
+Clone the repo and install dependencies:
+
+```bash
+git clone https://github.com/<YOUR-USERNAME>/hello-chain.git
+cd hello-chain
+npm install
+
 ```
