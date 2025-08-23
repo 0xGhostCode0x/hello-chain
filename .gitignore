@@ -1,0 +1,24 @@
+# Node / TypeScript
+node_modules/
+dist/
+coverage/
+typechain-types/
+
+# Hardhat artifacts & cache
+artifacts/
+cache/
+
+# Env & secrets
+.env
+.env.*
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VS Code
+.vscode/
+
+# Hardhat Ignition default folder for deployments against a local node
+ignition/deployments/chain-31337/
